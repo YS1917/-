@@ -1,0 +1,31 @@
+{
+"squadName":"League of Legends",
+"logical":"Los Angeles",
+"formed":2009,
+"members":[
+{
+"name":"xia",
+"from":"Gas Taya",
+"subjection":"Ionia",
+"skill":[
+"passive":"ruiqie",
+"Q":"shuangren",
+"W":"zhisiyuyi",
+"E":"daogou",
+"R":"baofengyuren"
+]
+},
+{
+"name":"luo",
+"from":"Gas Taya",
+"subjection":"Ionia",
+"skill":[
+"passive":"yisiyushang",
+"Q":"weiguangfeiling",
+"W":"shengdadengchang",
+"E":"qingwuchengshuang",
+"R":"jinghongguoxi"
+]
+}
+]
+}
